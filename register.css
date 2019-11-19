@@ -1,0 +1,16 @@
+.header{
+	background-color: brown;
+}
+
+.link{
+	float: right;
+	padding-top: 10px;
+}
+
+h3{
+	text-align: center;
+}
+
+input{
+	width: 500px;
+}
